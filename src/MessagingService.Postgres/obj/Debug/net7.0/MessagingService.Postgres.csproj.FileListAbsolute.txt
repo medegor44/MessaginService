@@ -1,0 +1,12 @@
+D:\Projects\MessagingService\src\MessagingService.Postgres\bin\Debug\net7.0\MessagingService.Postgres.deps.json
+D:\Projects\MessagingService\src\MessagingService.Postgres\bin\Debug\net7.0\MessagingService.Postgres.dll
+D:\Projects\MessagingService\src\MessagingService.Postgres\bin\Debug\net7.0\MessagingService.Postgres.pdb
+D:\Projects\MessagingService\src\MessagingService.Postgres\obj\Debug\net7.0\MessagingService.Postgres.csproj.AssemblyReference.cache
+D:\Projects\MessagingService\src\MessagingService.Postgres\obj\Debug\net7.0\MessagingService.Postgres.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\MessagingService\src\MessagingService.Postgres\obj\Debug\net7.0\MessagingService.Postgres.AssemblyInfoInputs.cache
+D:\Projects\MessagingService\src\MessagingService.Postgres\obj\Debug\net7.0\MessagingService.Postgres.AssemblyInfo.cs
+D:\Projects\MessagingService\src\MessagingService.Postgres\obj\Debug\net7.0\MessagingService.Postgres.csproj.CoreCompileInputs.cache
+D:\Projects\MessagingService\src\MessagingService.Postgres\obj\Debug\net7.0\MessagingService.Postgres.dll
+D:\Projects\MessagingService\src\MessagingService.Postgres\obj\Debug\net7.0\refint\MessagingService.Postgres.dll
+D:\Projects\MessagingService\src\MessagingService.Postgres\obj\Debug\net7.0\MessagingService.Postgres.pdb
+D:\Projects\MessagingService\src\MessagingService.Postgres\obj\Debug\net7.0\ref\MessagingService.Postgres.dll

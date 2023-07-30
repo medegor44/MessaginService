@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "O3W2DmUEPkuHASfeTXRz+oGhQv3RmyKMZ8gnviOA7TmsZzbd2uBmZOFC0LM61YqVOkNm7oIDx0HHltKvKCOsVQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\MessagingService\\src\\MessagingService.Postgres\\MessagingService.Postgres.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\medegor44\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\medegor44\\.nuget\\packages\\microsoft.extensions.configuration.binder\\7.0.3\\microsoft.extensions.configuration.binder.7.0.3.nupkg.sha512",
+    "C:\\Users\\medegor44\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\medegor44\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\medegor44\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\medegor44\\.nuget\\packages\\npgsql\\7.0.2\\npgsql.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+D:\Projects\MessagingService\src\MessagingService.Migrations\bin\Debug\net7.0\MessagingService.Migrations.deps.json
+D:\Projects\MessagingService\src\MessagingService.Migrations\bin\Debug\net7.0\MessagingService.Migrations.dll
+D:\Projects\MessagingService\src\MessagingService.Migrations\bin\Debug\net7.0\MessagingService.Migrations.pdb
+D:\Projects\MessagingService\src\MessagingService.Migrations\bin\Debug\net7.0\MessagingService.Postgres.dll
+D:\Projects\MessagingService\src\MessagingService.Migrations\bin\Debug\net7.0\MessagingService.Postgres.pdb
+D:\Projects\MessagingService\src\MessagingService.Migrations\obj\Debug\net7.0\MessagingService.Migrations.csproj.AssemblyReference.cache
+D:\Projects\MessagingService\src\MessagingService.Migrations\obj\Debug\net7.0\MessagingService.Migrations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\MessagingService\src\MessagingService.Migrations\obj\Debug\net7.0\MessagingService.Migrations.AssemblyInfoInputs.cache
+D:\Projects\MessagingService\src\MessagingService.Migrations\obj\Debug\net7.0\MessagingService.Migrations.AssemblyInfo.cs
+D:\Projects\MessagingService\src\MessagingService.Migrations\obj\Debug\net7.0\MessagingService.Migrations.csproj.CoreCompileInputs.cache
+D:\Projects\MessagingService\src\MessagingService.Migrations\obj\Debug\net7.0\MessagingService.Migrations.csproj.CopyComplete
+D:\Projects\MessagingService\src\MessagingService.Migrations\obj\Debug\net7.0\MessagingService.Migrations.dll
+D:\Projects\MessagingService\src\MessagingService.Migrations\obj\Debug\net7.0\refint\MessagingService.Migrations.dll
+D:\Projects\MessagingService\src\MessagingService.Migrations\obj\Debug\net7.0\MessagingService.Migrations.pdb
+D:\Projects\MessagingService\src\MessagingService.Migrations\obj\Debug\net7.0\ref\MessagingService.Migrations.dll

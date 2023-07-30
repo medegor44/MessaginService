@@ -1,0 +1,17 @@
+D:\Projects\MessagingService\src\MessagingService.DataAccess\bin\Debug\net7.0\MessagingService.DataAccess.deps.json
+D:\Projects\MessagingService\src\MessagingService.DataAccess\bin\Debug\net7.0\MessagingService.DataAccess.dll
+D:\Projects\MessagingService\src\MessagingService.DataAccess\bin\Debug\net7.0\MessagingService.DataAccess.pdb
+D:\Projects\MessagingService\src\MessagingService.DataAccess\bin\Debug\net7.0\MessagingService.Domain.dll
+D:\Projects\MessagingService\src\MessagingService.DataAccess\bin\Debug\net7.0\MessagingService.Postgres.dll
+D:\Projects\MessagingService\src\MessagingService.DataAccess\bin\Debug\net7.0\MessagingService.Domain.pdb
+D:\Projects\MessagingService\src\MessagingService.DataAccess\bin\Debug\net7.0\MessagingService.Postgres.pdb
+D:\Projects\MessagingService\src\MessagingService.DataAccess\obj\Debug\net7.0\MessagingService.DataAccess.csproj.AssemblyReference.cache
+D:\Projects\MessagingService\src\MessagingService.DataAccess\obj\Debug\net7.0\MessagingService.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\MessagingService\src\MessagingService.DataAccess\obj\Debug\net7.0\MessagingService.DataAccess.AssemblyInfoInputs.cache
+D:\Projects\MessagingService\src\MessagingService.DataAccess\obj\Debug\net7.0\MessagingService.DataAccess.AssemblyInfo.cs
+D:\Projects\MessagingService\src\MessagingService.DataAccess\obj\Debug\net7.0\MessagingService.DataAccess.csproj.CoreCompileInputs.cache
+D:\Projects\MessagingService\src\MessagingService.DataAccess\obj\Debug\net7.0\MessagingService.DataAccess.csproj.CopyComplete
+D:\Projects\MessagingService\src\MessagingService.DataAccess\obj\Debug\net7.0\MessagingService.DataAccess.dll
+D:\Projects\MessagingService\src\MessagingService.DataAccess\obj\Debug\net7.0\refint\MessagingService.DataAccess.dll
+D:\Projects\MessagingService\src\MessagingService.DataAccess\obj\Debug\net7.0\MessagingService.DataAccess.pdb
+D:\Projects\MessagingService\src\MessagingService.DataAccess\obj\Debug\net7.0\ref\MessagingService.DataAccess.dll
